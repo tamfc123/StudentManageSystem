@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menudeleteclass" android:title="Xóa lớp học"/>
+    <item android:id="@+id/menueditclass" android:title="Sửa lớp học"/>
+    <item android:id="@+id/menucloseclass" android:title="Thoát lớp học"/>
+</menu>

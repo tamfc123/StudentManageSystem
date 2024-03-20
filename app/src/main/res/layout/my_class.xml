@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableRow xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <TextView
+        android:layout_weight="1"
+
+        android:id="@+id/txtclasscode"
+        android:layout_width="0sp"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:textColor="#fff"/>
+    <TextView
+
+        android:layout_weight="1"
+        android:id="@+id/txtclassname"
+        android:layout_width="0sp"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:textColor="#fff"/>
+    <TextView
+
+        android:layout_weight="1"
+        android:id="@+id/txtclassnumber"
+        android:layout_width="0sp"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:textColor="#fff"/>
+</TableRow>
